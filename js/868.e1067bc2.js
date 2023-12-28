@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkrelic"]=self["webpackChunkrelic"]||[]).push([[868],{4868:function(n,e,r){r.r(e),r.d(e,{default:function(){return o}});var c=r(6252);const u={class:"esg1"},s=(0,c._)("h1",null,"321313",-1),t=[s];function i(n,e,r,s,i,l){return(0,c.wg)(),(0,c.iD)("div",u,t)}var l={},a=r(3744);const f=(0,a.Z)(l,[["render",i]]);var o=f}}]);
+//# sourceMappingURL=868.e1067bc2.js.map
